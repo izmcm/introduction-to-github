@@ -25,7 +25,7 @@ O melhor jeito de manter branches organizadas com uma equipe é mantê-las conci
 ### :keyboard: Atividade: Sua primeira branch
 
 {% if preferences.gitTool == 'cli' %}
-1. Abra a interface de linha comando de sua preferência, a qual nós chamaremos de shell (casca) de agora em diante.
+1. Abra a interface de linha comando de sua preferência, a qual nós chamaremos de shell a partir de agora.
 1. Clone este repositório:
       ```shell
       git clone {{ thePayload.repository.clone_url }}
