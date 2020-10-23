@@ -59,8 +59,8 @@ O melhor jeito de manter branches organizados com uma equipe é mantê-las conci
       ![uma captura de tela dos branches do Git no VS Code](https://user-images.githubusercontent.com/16547949/53639606-adc76e80-3bf7-11e9-98ac-bd41ae2b40db.png)
 1. Clique em **Create new branch** e coloque o nome de branch que você quiser, por exemplo `my-slide`. Então pressione <kbd>Enter</kbd>.
 1. Quando for perguntado para selecionar a ref de origem da branch, selecione `main`.
-1. Vá para view de controle de versão, clique na elipse (...) e selecione **Push**. Confirme a caixa de diálogo pedindo para você publicar a branch.
-      ![uma captura de tela de view do controle de versão no VS Code](https://user-images.githubusercontent.com/16547949/53640015-ee73b780-3bf8-11e9-8c90-be9022b9555a.png)
+1. Clique na opção de controle de versão, clique na elipse (...) e selecione Push. Confirme a caixa de diálogo pedindo para você publicar o branch.
+      ![uma captura de tela mostrando o controle de versão no VS Code](https://user-images.githubusercontent.com/16547949/53640015-ee73b780-3bf8-11e9-8c90-be9022b9555a.png)
 
 {% else %}
 
