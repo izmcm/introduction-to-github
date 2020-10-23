@@ -40,7 +40,7 @@ O melhor jeito de manter branches organizados com uma equipe é mantê-las conci
       ```
 1. Dê push no branch para o GitHub:
       ```
-      git push --set-upstream origin <NOME-DA-BRANCH>
+      git push --set-upstream origin <NOME-DO-BRANCH>
       ```
 
 {% elsif preferences.gitTool == 'vscode' %}
@@ -66,8 +66,8 @@ O melhor jeito de manter branches organizados com uma equipe é mantê-las conci
 
 1. Navegue para [Code tab]({{ thePayload.repository.html_url }})
 2. Clique em **Branch: main** no drop-down
-3. No campo, digite um nome para sua branch, por exemplo, `my-slide`
-4. Clique em **Create branch: <name>** ou pressione a tecla <kbd>Enter</kbd> para criar sua branch
+3. No campo, digite um nome para seu branch, por exemplo, `my-slide`
+4. Clique em **Create branch: <name>** ou pressione a tecla <kbd>Enter</kbd> para criar seu branch
 
 {% endif %}
 <hr>
