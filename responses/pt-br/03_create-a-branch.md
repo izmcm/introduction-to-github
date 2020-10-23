@@ -15,7 +15,7 @@ Branches são uma parte importante do GitHub flow porque eles nos permitem separ
 
 ### Dicas ao usar branches
 
-Um único projeto pode ter centenas de branches, cada uma sugerindo uma nova mudança para a `main` branch.
+Um único projeto pode ter centenas de branches, cada uma sugerindo uma nova mudança para o branch `main`.
 
 O melhor jeito de manter branches organizados com uma equipe é mantê-las concisos e breves. Em outras palavras, um único branch deve representar uma única funcionalidade ou um conserto de bug. Isso diminui a confusão entre contribuidores quando a branch é apenas ativo por alguns poucos dias antes dele ser mergeado <sup>[:book:](https://help.github.com/articles/github-glossary/#merge)</sup> com a branch `main`.
 
